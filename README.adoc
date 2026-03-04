@@ -44,15 +44,15 @@ Mac 先安装 Asciidoctor：
 
 生成 HTML 文件：
 
- $ asciidoctor -vwt -o output/book.html index.adoc
+ $ asciidoctor -vwt -o docs/index.html index.adoc
 
 生成 PDF 文件：
 
- $ asciidoctor-pdf -o output/book.pdf index.adoc
+ $ asciidoctor-pdf -o docs/life-game-book.pdf index.adoc
 
 生成 Epub3 文件：
 
- $ asciidoctor-epub3 -o build/book.epub index.adoc
+ $ asciidoctor-epub3 -o docs/life-game-book.epub index.adoc
 
 == 参考资料
 
