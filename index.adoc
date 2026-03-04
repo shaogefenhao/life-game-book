@@ -1,0 +1,69 @@
+= 《人生游戏：自我觉醒、社会规则和执行力》
+:email: shaogefenhao@gmail.com
+:author: 少个分号
+:website: https://www.shaogefenhao.com
+:revnumber: 0.1
+:doctype: book
+:toc: left
+:toclevels: 3
+:toc-title: 《人生游戏：自我觉醒、社会规则和执行力》
+:sectnums:
+:sectnumlevels: 3
+:icons: font
+:imagesdir: ./images
+:data-uri:
+:lang: en
+
+[preface]
+
+== 写在前面
+
+include::preface.adoc[]
+
+== 第一部分：自我觉醒和认知
+
+从进化的角度理解人性，讨论生存和繁衍、动机、欲望和意识。让你找回主体性，摆脱抑郁和焦虑。
+
+include::part1/01-who-am-i.adoc[leveloffset=+1]
+include::part1/02-where-should-i-go.adoc[leveloffset=+1]
+include::part1/03-where-was-I-from.adoc[leveloffset=+1]
+include::part1/04-why-do-we-suffer.adoc[leveloffset=+1]
+include::part1/05-is-desire-sinful.adoc[leveloffset=+1]
+include::part1/06-why-are-we-ashamed.adoc[leveloffset=+1]
+include::part1/07-why-cant-happiness-last.adoc[leveloffset=+1]
+include::part1/08-what-is-love.adoc[leveloffset=+1]
+include::part1/09-how-not-to-be-manipulate.adoc[leveloffset=+1]
+include::part1/10-how-to-understand-this-world.adoc[leveloffset=+1]
+
+== 第二部分：社会游戏规则
+
+从系统的角度分析组织，讨论合作、竞争、博弈和群体认同。让你知道这个社会背后的逻辑规则，如何在这个规则下生存和繁衍。
+
+include::part2/01-how-to-play-game.adoc[leveloffset=+1]
+include::part2/02-society-is-a-system.adoc[leveloffset=+1]
+include::part2/03-why-people-lie.adoc[leveloffset=+1]
+include::part2/04-how-to-dominant.adoc[leveloffset=+1]
+include::part2/05-how-to-use-emotion.adoc[leveloffset=+1]
+include::part2/06-how-to-orgiorganize-a-group-of-people.adoc[leveloffset=+1]
+include::part2/07-how-to-understand-morality.adoc[leveloffset=+1]
+include::part2/08-how-to-understand-religion.adoc[leveloffset=+1]
+include::part2/09-how-to-understand-power.adoc[leveloffset=+1]
+include::part2/10-how-to-understand-humanity.adoc[leveloffset=+1]
+
+== 第三部分：执行力与成长
+
+从执行力的角度，讨论行动、决策和改变自己的处境。
+
+include::part3/01-how-to-analyze-a-problem-in-depth.adoc[leveloffset=+1]
+include::part3/02-how-to-make-better-decision.adoc[leveloffset=+1]
+include::part3/03-how-to-get-continuous-action.adoc[leveloffset=+1]
+include::part3/04-how-to-push-one-thing.adoc[leveloffset=+1]
+include::part3/05-how-to-influence-others.adoc[leveloffset=+1]
+include::part3/06-how-to-get-closer-to-others.adoc[leveloffset=+1]
+include::part3/07-how-to-become-assertive.adoc[leveloffset=+1]
+include::part3/08-how-to-manage-focus-and-time.adoc[leveloffset=+1]
+include::part3/09-how-to-build-resilience.adoc[leveloffset=+1]
+include::part3/10-how-to-build-a-stable-core.adoc[leveloffset=+1]
+
+== 参考文献
+include::references.adoc[]
